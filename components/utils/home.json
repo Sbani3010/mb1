@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mission",
+    "details": "To empower young people with basic home based care skills and knowledge.",
+    "icon": "fa fa-warning"
+  },
+  {
+    "name": "Vision",
+    "details": "Communities full of young people who can take care of their own health.",
+    "icon": "fa fa-lightbulb",
+    "color":"text-warning"
+  },
+  {
+    "name": "We have an audacious goal",
+    "details": "To impact and develop thousands of young leaders through empowering them with basic home based care knowledge, skills to be able to mobilize their generation with tools, skills, knowledge, power and support to reach their full potential",
+    "icon": "fa fa-award"
+  }
+]

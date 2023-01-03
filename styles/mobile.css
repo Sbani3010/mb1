@@ -1,0 +1,26 @@
+@media screen and (max-width: 768px) {
+  .header_container {
+    flex-direction: column !important;
+    justify-content: space-around !important;
+    align-items: center !important;
+    flex-flow: column-reverse !important;
+    text-align: center;
+  }
+  .section_b {
+    width: 100% !important;
+    background-size: contain;
+  }
+  .box {
+    display: none;
+  }
+  .section_a {
+    width: 100% !important;
+  }
+  .header_container {
+    justify-content: center !important;
+  }
+  .section_b img{
+    transform: scale(1.2);
+  }
+  
+}
